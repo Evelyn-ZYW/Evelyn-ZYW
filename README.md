@@ -2,7 +2,7 @@
 
 👀 I’m interested in cross-platform web and mobile development.
 
-🌱 I’m currently learning vanilla javascript, and practicing leetcode problems.
+🌱 I’m currently digging deep into vanilla javascript, and practicing leetcode problems.
 
 💞️ I’m looking to collaborate on any interesting projects, or volunteer with non-profit organizations.
 
