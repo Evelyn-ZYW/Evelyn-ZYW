@@ -1,4 +1,4 @@
-👋 Hi, I’m Evelyn, a frontend developer.
+👋 Hi, I’m Evelyn, a frontend developer who use React.
 
 👀 I’m interested in cross-platform web and mobile development.
 
