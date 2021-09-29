@@ -1,6 +1,6 @@
 👋 Hi, I’m Evelyn, a frontend developer who uses React.
 
-👀 I’m interested in cross-platform app development.
+👀 I’m interested in cross-platform app development and modern ui/ux design.
 
 🌱 I’m currently digging deep into vanilla javascript, and practicing leetcode problems.
 
