@@ -1,4 +1,4 @@
-👋 Hi, I’m Evelyn, a frontend developer who uses React.
+👋 Hi, I’m Evelyn, a frontend developer with experience in React.
 
 👀 I’m interested in cross-platform app development and modern ui/ux design.
 
