@@ -6,7 +6,7 @@
 
 💞️ Besides job hunting, I’m looking to collaborate on any interesting projects, or volunteer with non-profit organizations.
 
-📫 Let's talk: evelynywz@gmail.com
+📫 Let's connect: evelynywz@gmail.com
 
 <!---
 Evelyn-ZYW/Evelyn-ZYW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
