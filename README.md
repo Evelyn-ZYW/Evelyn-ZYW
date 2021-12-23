@@ -2,7 +2,7 @@
 
 ✨ I love cross-platform app development and modern UX/UI design.
 
-🌱 I’m diving into vanilla javascript, getting to know more about React, and practicing leetcode problems at this moment.
+🌱 I’m diving into vanilla javascript, getting to know more about React, and practicing javascript problems at this moment.
 
 💞️ I’m looking to collaborate on any interesting projects, or volunteer with non-profit organizations.
 
