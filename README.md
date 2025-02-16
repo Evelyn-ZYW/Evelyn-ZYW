@@ -1,12 +1,10 @@
-👋 I’m Evelyn, a frontend developer with experience in React.
+👋 I’m Evelyn, a passionate frontend developer with expertise in creating responsive, user-friendly interfaces using modern technologies like React, JavaScript, HTML and CSS to deliver seamless digital experiences.
 
-✨ I love cross-platform app development and modern UX/UI design.
+🌱 I’m diving into vanilla javascript, and practicing LeetCode problems at this moment.
 
-🌱 I’m diving into vanilla javascript, getting to know more about React, and practicing javascript problems at this moment.
+💞️ I’m looking to collaborate on any inspiring projects, or volunteer with non-profit organizations.
 
-💞️ I’m looking to collaborate on any interesting projects, or volunteer with non-profit organizations.
-
-📫 Let's connect: evelynywz@gmail.com
+📫 Let's connect: evelyn.helloworld@gmail.com
 
 <!---
 Evelyn-ZYW/Evelyn-ZYW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
