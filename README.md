@@ -1,8 +1,8 @@
-👋 I’m Evelyn, a passionate frontend developer with expertise in creating responsive, user-friendly interfaces using modern technologies like React, JavaScript, HTML and CSS to deliver seamless digital experiences.
+👋 I’m Evelyn!
 
-🌱 I’m diving into vanilla javascript, and practicing LeetCode problems at this moment.
+🌱 Front End Developer | TypeScript, React | Expanding into Full-Stack Development
 
-💞️ I’m looking to collaborate on any inspiring projects, or volunteer with non-profit organizations.
+💞️ Learning C#, .NET
 
 📫 Let's connect: evelyn.helloworld@gmail.com
 
